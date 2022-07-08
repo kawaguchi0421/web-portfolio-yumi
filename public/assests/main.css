@@ -70,6 +70,8 @@ a:hover {
   background-color: #f3deb9;
 }
 /* ===== COMMON PARTS END ===== */
-
+.page-cover {
+  min-height: 100vh;
+}
 /* ===== OVERALL BEGIN ===== */
 ...ここは後ほど自分で入力していきます。/* ===== OVERALL END ===== */;
